@@ -5,7 +5,7 @@
 
 body * {
     padding: auto;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     color: white;
 }
 
@@ -39,6 +39,22 @@ body * {
   font-weight:500;
   line-height: 24px;
   margin-top: 15px;
+}
+
+#menu{
+  padding-top: 15px;
+}
+
+#container{
+  text-align: center;
+}
+
+.title{ 
+  padding-top: 15px;
+}
+
+.ensino {
+  padding-top: 15px;
 }
 
 .video-background {
